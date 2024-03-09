@@ -1,0 +1,41 @@
+body {
+  background-color: brown;
+}
+
+#hero-section {
+  height: 49vh;
+  display: flex;
+}
+
+.sect1 {
+  width: 50%;
+  height: 100%;
+}
+
+#fname {
+  font-size: 450%;
+}
+
+.name {
+  text-align: center;
+}
+
+#django{
+  width: 95%;
+  height: 90%;
+  border-color: aqua;
+  border-radius: 25%;
+}
+
+#cent-section{
+  text-align: center;
+  border: 1px solid black;
+  padding: 1%;
+  margin-top: 2%;
+}
+
+#sect3{
+  text-align: center;
+  padding-left: 15%;
+  padding-right: 20;
+}
